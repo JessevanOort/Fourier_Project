@@ -5,4 +5,12 @@ Anaconda is een platform met veel handige tools voor programmeren. Éen van deze
 https://www.anaconda.com/
 
 # 2 Start Anaconda en Install Jupyter Notebook
-![](<https://github.com/JessevanOort/Fourier_Project/tree/main/Images/anaconda.png> "")
+!['Jupyter Notebook'](<Images/anaconda.png>)
+
+# 3 Zoek op je pc: Anaconda Prompt
+Type:
+ git clone https://github.com/JessevanOort/Fourier_Project.git
+
+En vervolgens:
+ pip install -r requirements.txt
+
