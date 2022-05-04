@@ -23,3 +23,5 @@ En tenslotte:
  
 Let op: elke keer als je gaat werken met dit jupyter notebook moet je de Fourier_Project omgeving activeren met dit laatste command.
 
+# 4 Maak de opgaven in 'College Fourier.ipynb'
+- Veel succes
