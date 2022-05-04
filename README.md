@@ -9,6 +9,9 @@ https://www.anaconda.com/
 
 # 3 Zoek op je pc: Anaconda Prompt
 Type:
+ conda install pip
+
+Dan:
  git clone https://github.com/JessevanOort/Fourier_Project.git
 
 En vervolgens:
