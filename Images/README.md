@@ -1,0 +1,1 @@
+Afbeeldingen ter uitleg
