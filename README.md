@@ -13,9 +13,13 @@ Type:
 
 En vervolgens:
  conda env create -f environment.yml
+
+!['Jupyter Notebook'](<Images/Prompt1.png>)
  
 En tenslotte:
  conda activate Fourier_Project
+ 
+!['Jupyter Notebook'](<Images/Prompt2.png>)
  
 Let op: elke keer als je gaat werken met dit jupyter notebook moet je de Fourier_Project omgeving activeren met dit laatste command.
 
