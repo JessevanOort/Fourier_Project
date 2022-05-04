@@ -9,11 +9,13 @@ https://www.anaconda.com/
 
 # 3 Zoek op je pc: Anaconda Prompt
 Type:
- conda install pip
-
-Dan:
  git clone https://github.com/JessevanOort/Fourier_Project.git
 
 En vervolgens:
- pip install -r requirements.txt
+ conda env create -f environment.yml
+ 
+En tenslotte:
+ conda activate Fourier_Project
+ 
+Let op: elke keer als je gaat werken met dit jupyter notebook moet je de Fourier_Project omgeving activeren met dit laatste command.
 
