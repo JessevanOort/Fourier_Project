@@ -9,6 +9,7 @@ https://www.anaconda.com/. Open de website voor gemak in een nieuw tablad.
 
 # 2 Start Anaconda en Install Jupyter Notebook
 !['Jupyter Notebook'](<Images/anaconda.png>)
+- Je kunt de update pop-up negeren
 
 # 3 Zoek op je pc: Anaconda Prompt
 Type:
