@@ -4,6 +4,9 @@
 Anaconda is een platform met veel handige tools voor programmeren. Eén van deze tools gaan we gebruiken (Jupyter Notebook). Download anaconda op de website:
 https://www.anaconda.com/. Open de website voor gemak in een nieuw tablad.
 
+- Klik op de Download
+- Klik in de installer elke keer op 'Next'.
+
 # 2 Start Anaconda en Install Jupyter Notebook
 !['Jupyter Notebook'](<Images/anaconda.png>)
 
