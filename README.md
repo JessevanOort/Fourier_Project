@@ -16,10 +16,10 @@ https://www.anaconda.com/. Open de website voor gemak in een nieuw tablad.
 !['Jupyter Notebook'](<Images/DownloadZIP.png>)
 - Extract de zip-file in een van je mappen
 - Ga naar de map en klik op je rechtermuis, klik op 'openen in terminal'
-!['Jupyter Notebook'](<Images/terminal.png>)
+!['Jupyter Notebook'](<Images/Terminal.png>)
 
 
-En vervolgens:
+Type vervolgens:
  conda env create -f environment.yml
 
 !['Jupyter Notebook'](<Images/Prompt1.png>)
@@ -32,4 +32,6 @@ En tenslotte:
 Let op: elke keer als je gaat werken met dit jupyter notebook moet je de Fourier_Project omgeving activeren met dit laatste command.
 
 # 4 Maak de opgaven in 'College Fourier.ipynb'
+Klik vanuit de anaconda navigator op 'Launch' bij Jupter notebook
+- Zoek 'College Fourier.ipynb' en klik erop
 - Veel succes
