@@ -11,9 +11,13 @@ https://www.anaconda.com/. Open de website voor gemak in een nieuw tablad.
 !['Jupyter Notebook'](<Images/anaconda.png>)
 - Je kunt de update pop-up negeren
 
-# 3 Zoek op je pc: Anaconda Prompt
-Type:
- git clone https://github.com/JessevanOort/Fourier_Project.git
+# 3 Installeer het Python project
+- Klik op 'Code' op deze pagina en download als ZIP
+!['Jupyter Notebook'](<Images/DownloadZIP.png>)
+- Extract de zip-file in een van je mappen
+- Ga naar de map en klik op je rechtermuis, klik op 'openen in terminal'
+!['Jupyter Notebook'](<Images/terminal.png>)
+
 
 En vervolgens:
  conda env create -f environment.yml
